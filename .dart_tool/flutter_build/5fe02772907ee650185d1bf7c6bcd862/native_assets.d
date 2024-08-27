@@ -1,0 +1,1 @@
+ C:\\Users\\HayateSato\\FlutterFlow\\bluetooth_starter_8\\.dart_tool\\flutter_build\\5fe02772907ee650185d1bf7c6bcd862\\native_assets.yaml: 
